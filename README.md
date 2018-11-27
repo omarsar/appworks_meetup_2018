@@ -1,5 +1,5 @@
 ## Applied Deep Learning for NLP Using PyTorch
-This repository contains all the material used for the AI meetup hosted and organized by [AppWorks](https://appworks.tw/). 
+This repository contains all the material used for the AI meetup hosted and organized by [AppWorks](https://appworks.tw/). Note that you need to download a couple folders which are missing from the repository because of file size limitations. If you have any other questions reach out to me at ellfae@gmail.com or directly message me on Twitter ([@omarsar0](https://twitter.com/omarsar0)).
 
 ## Event Description:
 
@@ -11,15 +11,17 @@ Elvis Saravia is a Ph.D. candidate at National Tsing Hua University in Taiwan. H
 
 Recent advances in natural language processing (NLP) are in large part because of big data and modern deep learning techniques such as CNNs and ELMo contextualized embeddings. In this talk, we will dive deep into the best practices of applied deep learning for NLP and also discuss the recent trends. The second block of the talk will be a demo which showcases the use of tools such as Jupyter notebooks, spaCy, and PyTorch for building NLP applications, which include fine-grained sentiment analysis, neural machine translation, and phrase generation, among others.
 
-Language: English
+**Language:** English
 
-Agenda:
+**Agenda:**
 
 7:00pm - 8:00pm: Applied deep learning for NLP using PyTorch
+
 8:00pm - 8:30pm: Q&A
+
 8:30pm - 9:00pm: Mixer
 
-Event source: [Link to event](https://www.eventbrite.com/e/applied-deep-learning-for-nlp-using-pytorch-tickets-52773928240)
+**Event source:** [Link to event](https://www.eventbrite.com/e/applied-deep-learning-for-nlp-using-pytorch-tickets-52773928240)
 
 
 ## Meetup Format
