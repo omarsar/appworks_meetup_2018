@@ -28,6 +28,6 @@ Recent advances in natural language processing (NLP) are in large part because o
 - In the first block of the presentation I used the following [slides](https://github.com/omarsar/appworks_meetup_2018/blob/master/Applied_Deep_Learning_for_NLP_PyTorch.pdf).
 - In the second block the following notebooks were discussed:
     - [Abstractive Text Summarization](https://github.com/omarsar/appworks_meetup_2018/blob/master/ATS.ipynb) - the task of predicting a summary for a given piece of text using an encoder-decoder architecture.
-    ![alt txt]()
+    ![alt txt](https://github.com/omarsar/appworks_meetup_2018/blob/master/img/text_summary.png?raw=true)
     - [Text-based Emotion Recognition](https://github.com/omarsar/appworks_meetup_2018/blob/master/Deep%20Learning%20Emotion%20Recognition%20PyTorch.ipynb) - the task of predicting the emotion conveyed in text using GRUs and embeddings. 
     ![alt txt](https://github.com/omarsar/appworks_meetup_2018/raw/4d1f452b14bff206c198891820c9e72233cb50cb/img/emotion_classifier.png)
