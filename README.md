@@ -1,5 +1,5 @@
 ## Applied Deep Learning for NLP Using PyTorch
-This repository contains all the material used for the AI meetup hosted and organized by [AppWorks](https://appworks.tw/). Note that you need to download a couple folders which are missing from the repository because of file size limitations. If you have any other questions reach out to me at ellfae@gmail.com or directly message me on Twitter ([@omarsar0](https://twitter.com/omarsar0)).
+This repository contains all the material used for the NLP meetup hosted and organized by [AppWorks](https://appworks.tw/). You can find the slides for this presentation [here](https://github.com/omarsar/appworks_meetup_2018/blob/master/Applied_Deep_Learning_for_NLP_PyTorch.pdf). Note that in order to run the notebooks in this repository you need to download a ["data"](https://drive.google.com/open?id=107WpItmepPDDddNi4_dlk-u-VuDJmRx4) folder which is missing from the repository because of file size limitations. If you have any other questions reach me through ellfae@gmail.com or directly message me on Twitter ([@omarsar0](https://twitter.com/omarsar0)).
 
 ## Event Description:
 
@@ -25,7 +25,9 @@ Recent advances in natural language processing (NLP) are in large part because o
 
 
 ## Meetup Format
-- In the first block of the presentation I used the following slides.
+- In the first block of the presentation I used the following [slides](https://github.com/omarsar/appworks_meetup_2018/blob/master/Applied_Deep_Learning_for_NLP_PyTorch.pdf).
 - In the second block the following notebooks were discussed:
-    - Abstractive Text Summarization
-    - Text-based Emotion Recognition
+    - [Abstractive Text Summarization](https://github.com/omarsar/appworks_meetup_2018/blob/master/ATS.ipynb) - the task of predicting a summary for a given piece of text using an encoder-decoder architecture.
+    ![alt txt]()
+    - [Text-based Emotion Recognition](https://github.com/omarsar/appworks_meetup_2018/blob/master/Deep%20Learning%20Emotion%20Recognition%20PyTorch.ipynb) - the task of predicting the emotion conveyed in text using GRUs and embeddings. 
+    ![alt txt](https://github.com/omarsar/appworks_meetup_2018/raw/4d1f452b14bff206c198891820c9e72233cb50cb/img/emotion_classifier.png)
